@@ -1,7 +1,22 @@
+.divFather{
+
+    background-color: black;
+    justify-items: center;
+    width: 36em;
+    height: 24em;
+
+}
+
+.divSon1{
+
+    background-color: aquamarine;
+    
+}
+
 .website{
 
-    background-color: #252525;
-    width: 20vw;
-    height: 10vh;
-    justify-content: end;
+    background-color: lightsalmon;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+
 }
